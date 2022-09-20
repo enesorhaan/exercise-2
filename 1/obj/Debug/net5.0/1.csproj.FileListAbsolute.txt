@@ -1,0 +1,16 @@
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.exe
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.deps.json
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.runtimeconfig.json
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.dll
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\ref\1.dll
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\bin\Debug\net5.0\1.pdb
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.dll
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\ref\1.dll
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.pdb
+C:\Users\Enes Orhan\Documents\Practices\exercise-2\1\obj\Debug\net5.0\1.genruntimeconfig.cache
